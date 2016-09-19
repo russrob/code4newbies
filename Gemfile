@@ -51,4 +51,5 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'materialize-sass'
 gem 'simple_form'
 gem 'devise'
+gem 'font-awesome-rails'
 
